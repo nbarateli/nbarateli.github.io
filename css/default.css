@@ -359,7 +359,7 @@ hr {
 a, a:visited {
   text-decoration: none;
   outline: 0;
-  color: #11ABB0;
+  color: #b01f90;
 
   -webkit-transition: color .3s ease-in-out;
   -moz-transition: color .3s ease-in-out;
@@ -368,7 +368,7 @@ a, a:visited {
 }
 
 a:hover, a:focus {
-  color: #313131;
+  color: #310b23;
 }
 
 p a, p a:visited {
@@ -464,7 +464,7 @@ li p {
 }
 
 .stats-tabs li a:hover {
-  color: #11ABB0;
+  color: #b0862c;
 }
 
 .stats-tabs li a b {
