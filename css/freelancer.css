@@ -31,7 +31,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  /*font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -233,6 +233,14 @@ header.masthead .intro-text .name {
   font-weight: 700;
   display: block;
   text-transform: uppercase;
+}
+
+header.masthead .intro-text .name.lang-ge {
+  font-family: 'bpg_excelsior_caps_dejavu_2010', Sans-Serif;
+}
+
+header.masthead .intro-text .name .lang-ge-small {
+  font-family: 'bpg_excelsior_dejavu_2010', Sans-Serif;
 }
 
 header.masthead .intro-text .skills {
