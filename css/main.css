@@ -428,3 +428,7 @@
   content: url(../img/hackerrank.png);
   width: 10px;
 }
+
+#down, .btn.btn-lg.btn-outline {
+  color: white;
+}

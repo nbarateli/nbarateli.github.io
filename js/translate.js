@@ -14,6 +14,8 @@ const DICTIONARY = {
     'date': {'en': 'September 2015 - Present', 'ge': 'სექტემბერი 2015 - დღემდე'},
     'work': {'en': 'Work', 'ge': 'სამუშაო გამოცდილება'},
     'about': {'en': 'About', 'ge': 'ჩემს შესახებ'},
+    'about_2': {'en': 'About me', 'ge': 'ჩემს შესახებ'},
+    'down_cv': {'small': true, 'en': 'Download resume', 'ge': 'გადმოწერეთ რეზიუმე'},
     'contact': {'en': 'Contact', 'ge': 'დამიკავშირდით'},
     'about_me': {
         'small': true,
