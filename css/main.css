@@ -407,27 +407,13 @@
 @font-face {
   font-family: "bpg_excelsior_dejavu_2010";
   src: url("../fonts/BPG Excelsior Condencerd GPL&GNU.ttf");
-  /*src: url("../fonts/bpg_excelsior_dejavu_2010.eot?#iefix") format("embedded-opentype"),*/
-  /*url("../fonts/bpg_excelsior_dejavu_2010.woff") format("woff"),*/
-  /*url("../fonts/bpg_excelsior_dejavu_2010.ttf") format("truetype"),*/
-  /*url("../fonts/BPGExcelsiorDejaVu2010.svg#bpg_excelsior_dejavu_2010") format("svg");*/
-  /*font-weight: normal;*/
-  /*font-style: normal;*/
-  /*-webkit-font-smoothing: antialiased;*/
-  /*-moz-osx-font-smoothing: grayscale;*/
+
 }
 
 @font-face {
   font-family: "bpg_excelsior_caps_dejavu_2010";
   src: url("../fonts/BPG Excelsior Caps GPL&GNU.ttf");
-  /*src: url("../fonts/bpg_excelsior_caps_dejavu_2010.eot?#iefix") format("embedded-opentype"),*/
-  /*url("../fonts/bpg_excelsior_caps_dejavu_2010.woff") format("woff"),*/
-  /*url("../fonts/bpg_excelsior_caps_dejavu_2010.ttf") format("truetype"),*/
-  /*url("../fonts/BPGExcelsiorCapsDejaVu2010.svg#bpg_excelsior_caps_dejavu_2010") format("svg");*/
-  /*font-weight: normal;*/
-  /*font-style: normal;*/
-  /*-webkit-font-smoothing: antialiased;*/
-  /*-moz-osx-font-smoothing: grayscale;*/
+
 }
 
 .lang-ge {

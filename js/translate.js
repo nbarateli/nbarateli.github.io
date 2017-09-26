@@ -17,7 +17,9 @@ const DICTIONARY = {
     'contact': {'en': 'Contact', 'ge': 'დამიკავშირდით'},
     'about_me': {
         'small': true,
-        'en': ''
+        'en': 'Hi. My name is Niko Barateli, I\'m a junior at Free University of Tbilisi.\n' +
+        'I can quickly learn new skills and adapt to a new environment. I\'m very punctual and enthusiastic towards my work.\n' +
+        'I love solving problems, writing efficient code with good style and design and learning new technologies.'
         ,
         'ge': 'გამარჯობა. მე ვარ ნიკო ბარათელი, თბილისის თავისუფალი უნივერსიტეტის, კომპიუტერული მეცნიერებებისა და მათემატიკის სკოლის მესამე კურსის სტუდენტი.\n' +
         'კომპიუტერულ მეცნირებებს ვსწავლობ ორ წელზე მეტია. ამ ორი წლის განმავლობაში ვიყავი ლექტორი ერთ-ერთი ასისტენტი (საგანი: პროგრამირების აბსტრაქციები, C++).\n' +
@@ -53,7 +55,21 @@ const DICTIONARY = {
         'ge': 'სექციის ლიდერებს ევალებათ კონსულტაციები  გაუწიონ სტუდენტებს კომპიუტერული მეცნიერებების\n' +
         'ძირითად კურსებში და შეაფასონ მათ მიერ შესრულებული დავალებები აღნიშნულ კურსებში' +
         ' ფუნქციონალურობის, ეფექტურობის, სტილის და დოკუმენტაციის მიხედვით.'
-    }
+    },
+    'address': {
+        'small': true, 'en': '\n' +
+        '              10a Demetre Tavdadebuli Street, Apt &numero;12,<br>\n' +
+        '              Tbilisi, Georgia<br>', 'ge': '\n' +
+        '              10ა დემეტრე თავდადებულის ქუჩა, ბ. &numero;12,<br>\n' +
+        '              თბილისი, საქართველო<br>'
+    },
+    'phone_number': {'en': 'Phone Number', 'ge': 'საკონტაქტო ნომერი', 'small': true},
+    'gifts': {'en': 'Send me cool gadgets at', 'ge': 'ამავსეთ საჩუქრებით: '},
+    'skills': {'en': 'Skills', 'ge': 'უნარები'},
+    'soft': {'en': 'Software', 'ge': 'პროგრამები'},
+    'code_framework': {'en': 'Programming Language/Frameworks', 'ge': 'პროგრამირების ენები/ფრეიმვორკები'},
+    'around_web': {'en': 'Around the Web', 'ge': 'მიპოვეთ ინტერნეტში'},
+    'email_me': {'small': true, 'en': 'Email me at', 'ge': 'მომწერეთ ელ-ფოსტაზე '},
 
 
 };
@@ -74,7 +90,7 @@ function translate(lang) {
 
         try {
 
-            $(this).text(DICTIONARY[key][lang]);
+            $(this).html(DICTIONARY[key][lang]);
 
             $(this).addClass('lang-' + lang + (DICTIONARY[key]['small'] === true ? '-small' : ''));
         } catch (e) {
@@ -89,7 +105,7 @@ function initTranslation() {
     $('.translate').click(function () {
         var lang = $(this).attr('id');
         translate(lang);
-    })
+    });
     var currentLang = document.getElementsByTagName('html')[0].getAttribute('lang');
     if (AVAILABLE_LANGUAGES.indexOf(currentLang.toLowerCase()) !== -1) {
         translate(currentLang);
