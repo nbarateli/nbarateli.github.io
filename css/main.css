@@ -399,3 +399,7 @@
 [class*="column"] + [class*="column"].end {
   float: right;
 }
+
+.translate:hover {
+  cursor: pointer;
+}
