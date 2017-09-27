@@ -61,9 +61,9 @@ const DICTIONARY = {
     'address': {
         'small': true, 'en': '\n' +
         '              10a Demetre Tavdadebuli Street, Apt &numero;12,<br>\n' +
-        '              Tbilisi, Georgia<br>', 'ge': '\n' +
+        '              Tbilisi, 0131, Georgia<br>', 'ge': '\n' +
         '              10ა დემეტრე თავდადებულის ქუჩა, ბ. &numero;12,<br>\n' +
-        '              თბილისი, საქართველო<br>'
+        '              თბილისი, 0131, საქართველო<br>'
     },
     'phone_number': {'en': 'Phone Number', 'ge': 'საკონტაქტო ნომერი', 'small': true},
     'gifts': {'en': 'Send me cool gadgets at', 'ge': 'ამავსეთ საჩუქრებით: '},
