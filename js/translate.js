@@ -16,6 +16,7 @@ const DICTIONARY = {
     'about': {'en': 'About', 'ge': 'ჩემს შესახებ'},
     'about_2': {'en': 'About me', 'ge': 'ჩემს შესახებ'},
     'down_cv': {'small': true, 'en': 'Download resume', 'ge': 'გადმოწერეთ რეზიუმე'},
+    'resume': {'en': 'Resume', 'ge': 'რეზიუმე'},
     'contact': {'en': 'Contact', 'ge': 'დამიკავშირდით'},
     'about_me': {
         'small': true,
