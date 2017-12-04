@@ -48,7 +48,11 @@ const DICTIONARY = {
     },
     'coursework': {'en': 'Related Coursework:', 'ge': 'გავლილი კურსები:'},
     'seclead': {'en': 'Teaching Assistant (Section Leader)', 'ge': 'ლექტორის ასისტენტი (სექციის ლიდერი)'},
-    'seclead_date': {'en': 'March 2017 - July 2017', 'ge': 'მარტი 2017 - ივლისი 2017', 'small': true},
+    'seclead_date': {
+        'en': 'March 2017 - July 2017 | October 2017 - present',
+        'ge': 'მარტი 2017 - ივლისი 2017 | ოქტომბერი 2017 - დღემდე',
+        'small': true
+    },
     'seclead_description': {
         'small': true,
         'en': 'Responsible for grading programming homeworks of 8-10 students (functionality, efficiency,' +
@@ -73,7 +77,17 @@ const DICTIONARY = {
     'code_framework': {'en': 'Programming Language/Frameworks', 'ge': 'პროგრამირების ენები/ფრეიმვორკები'},
     'around_web': {'en': 'Around the Web', 'ge': 'მიპოვეთ ინტერნეტში'},
     'email_me': {'small': true, 'en': 'Email me at', 'ge': 'მომწერეთ ელ-ფოსტაზე '},
-
+    'jundev': {'en': 'Junior Web Developer', 'ge': 'უმცროსი ვებ დეველოპერი'},
+    'designge': {
+        'small': true,
+        'en': 'Responsible for fixing bugs or adding new features to already complete or almost complete web\n' +
+        '                  projects.', 'ge': 'პასუხისმგებელი დასრულებულ ან თითქმის დასრულებულ პროექტებში ' +
+        'ბაგების გასწორებასა და ახალი ფუნქციონალის დამატებაზე.'
+    }, 'designge_date': {
+        'en': 'November 2017 - present',
+        'ge': 'ნოემბერი 2017 - დღემდე',
+        'small': true
+    },
 
 };
 
