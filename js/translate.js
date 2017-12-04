@@ -80,7 +80,7 @@ const DICTIONARY = {
     'jundev': {'en': 'Junior Web Developer', 'ge': 'უმცროსი ვებ დეველოპერი'},
     'designge': {
         'small': true,
-        'en': 'Responsible for fixing bugs or adding new features to already complete or almost complete web\n' +
+        'en': 'Responsible for fixing bugs or adding new features to already deployed or almost complete web\n' +
         '                  projects.', 'ge': 'პასუხისმგებელი დასრულებულ ან თითქმის დასრულებულ პროექტებში ' +
         'ბაგების გასწორებასა და ახალი ფუნქციონალის დამატებაზე.'
     }, 'designge_date': {
