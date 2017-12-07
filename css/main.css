@@ -433,3 +433,10 @@
 #down, .btn.btn-lg.btn-outline {
   color: white;
 }
+
+.translate {
+  height: 24px;
+  width: 32px;
+  border-radius: 10%;
+
+}
