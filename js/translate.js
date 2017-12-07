@@ -5,6 +5,18 @@ function changeLang(lang) {
 const AVAILABLE_LANGUAGES = ['ge', 'en']
 
 const DICTIONARY = {
+    'jan': {'en': 'January', 'ge': 'იანვარი'},
+    'feb': {'en': 'February', 'ge': 'თებერვალი'},
+    'mar': {'en': 'March', 'ge': 'მარტი'},
+    'apr': {'en': 'April', 'ge': 'აპრილი'},
+    'may': {'en': 'May', 'ge': 'მაისი'},
+    'jun': {'en': 'June', 'ge': 'ივნისი'},
+    'jul': {'en': 'July', 'ge': 'ივლისი'},
+    'aug': {'en': 'August', 'ge': 'აგვისტო'},
+    'sep': {'en': 'September', 'ge': 'სექტემბერი'},
+    'oct': {'en': 'October', 'ge': 'ოქტომბერი'},
+    'nov': {'en': 'November', 'ge': 'ნოემბერი'},
+    'dec': {'en': 'December', 'ge': 'დეკემბერი'},
     '': {'en': '', 'ge': ''},
     'name': {'en': 'Niko Barateli', 'ge': 'ნიკო ბარათელი'},
     'software_dev': {'en': 'Software Developer', 'ge': 'პროგრამული უზრუნველყოფის დეველოპერი'},
