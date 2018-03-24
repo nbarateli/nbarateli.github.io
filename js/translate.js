@@ -61,8 +61,8 @@ const DICTIONARY = {
     'coursework': {'en': 'Related Coursework:', 'ge': 'გავლილი კურსები:'},
     'seclead': {'en': 'Teaching Assistant (Section Leader)', 'ge': 'ლექტორის ასისტენტი (სექციის ლიდერი)'},
     'seclead_date': {
-        'en': 'March 2017 - July 2017 | October 2017 - present',
-        'ge': 'მარტი 2017 - ივლისი 2017 | ოქტომბერი 2017 - დღემდე',
+        'en': 'March 2017 - July 2017 | October 2017 - January 2018',
+        'ge': 'მარტი 2017 - ივლისი 2017 | ოქტომბერი 2017 - იანვარი 2018',
         'small': true
     },
     'seclead_description': {
@@ -96,8 +96,8 @@ const DICTIONARY = {
         '                  projects.', 'ge': 'პასუხისმგებელი დასრულებულ ან თითქმის დასრულებულ ვებ პროექტებში ' +
         'ბაგების გასწორებასა და ახალი ფუნქციონალის დამატებაზე.'
     }, 'designge_date': {
-        'en': 'November 2017 - present',
-        'ge': 'ნოემბერი 2017 - დღემდე',
+        'en': 'November 2017 - February 2018',
+        'ge': 'ნოემბერი 2017 - თებერვალი 2018',
         'small': true
     },
 
