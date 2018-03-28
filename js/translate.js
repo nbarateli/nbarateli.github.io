@@ -17,6 +17,7 @@ const DICTIONARY = {
     'oct': {'en': 'October', 'ge': 'ოქტომბერი'},
     'nov': {'en': 'November', 'ge': 'ნოემბერი'},
     'dec': {'en': 'December', 'ge': 'დეკემბერი'},
+    'present': {'en': 'present', 'ge': 'დღემდე'},
     '': {'en': '', 'ge': ''},
     'name': {'en': 'Niko Barateli', 'ge': 'ნიკო ბარათელი'},
     'software_dev': {'en': 'Software Developer', 'ge': 'პროგრამული უზრუნველყოფის დეველოპერი'},
