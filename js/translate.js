@@ -68,10 +68,10 @@ const DICTIONARY = {
     },
     'seclead_description': {
         'small': true,
-        'en': 'Responsible for grading programming homeworks of 8-10 students (functionality, efficiency,' +
-        ' styling and documenting), explaining their mistakes and providing consultations\n' +
-        '\n' +
-        'if necessary.',
+        'en': 'Picked by the teacher, after being at the top of the class,' +
+        ' section leaders are responsible for grading programming homework of 10-15 students ' +
+        '(functionality, efficiency, codestyling and documenting), ' +
+        'explaining their mistakes and providing consultations if necessary.',
         'ge': 'სექციის ლიდერებს ევალებათ კონსულტაციები  გაუწიონ სტუდენტებს კომპიუტერული მეცნიერებების\n' +
         'ძირითად კურსებში და შეაფასონ მათ მიერ შესრულებული დავალებები აღნიშნულ კურსებში' +
         ' ფუნქციონალურობის, ეფექტურობის, სტილის და დოკუმენტაციის მიხედვით.'
