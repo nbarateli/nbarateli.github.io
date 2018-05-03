@@ -115,17 +115,21 @@ function translate(lang) {
     }
 
     $('.lang').each(function (index, element) {
+
         var key = $(this).attr('key');
         removeLanguages($(this), AVAILABLE_LANGUAGES);
-
         try {
+            $(this).fadeOut(500);
+            setTimeout(function () {
+                $(element).html(DICTIONARY[key][lang]);
 
-            $(this).html(DICTIONARY[key][lang]);
-
-            $(this).addClass('lang-' + lang + (DICTIONARY[key]['small'] === true ? '-small' : ''));
+                $(element).addClass('lang-' + lang + (DICTIONARY[key]['small'] === true ? '-small' : ''));
+            }, 500);
+            $(this).fadeIn();
         } catch (e) {
             console.error(key)
         }
+
     });
 
 }
