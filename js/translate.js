@@ -34,13 +34,13 @@ const DICTIONARY = {
     'about_me': {
         'small': true,
         'en': 'Hi. My name is Niko Barateli, I\'m a junior at Free University of Tbilisi.\n' +
-        'I can quickly learn new skills and adapt to a new environment. I\'m very punctual and enthusiastic towards my work.\n' +
-        'I love solving problems, writing efficient code with good style and design and learning new technologies.'
+            'I can quickly learn new skills and adapt to a new environment. I\'m very punctual and enthusiastic towards my work.\n' +
+            'I love solving problems, writing efficient code with good style and design and learning new technologies.'
         ,
         'ge': 'გამარჯობა. მე ვარ ნიკო ბარათელი, თბილისის თავისუფალი უნივერსიტეტის, კომპიუტერული მეცნიერებებისა და მათემატიკის სკოლის მესამე კურსის სტუდენტი.\n' +
-        'კომპიუტერულ მეცნირებებს ვსწავლობ ორ წელზე მეტია. ამ ორი წლის განმავლობაში სამჯერ ვიყავი ლექტორის ერთ-ერთი ასისტენტი (საგანი: პროგრამირების აბსტრაქციები (C++), პროგრამირების მეთოდოლოგია (Java)).\n' +
-        'შემიძლია სწრაფად ავითვისო ახალი უნარები და მოვერგო ახალ გარემოს. ვარ პუნქტუალური და საქმის მიმართ ენთუზიასტურად განწყობილი. მიყვარს კარგი სტილის და დიზაინის მქონე, მაქსიმალურად მოქნილი კოდის წერა, არსებულის გაუმჯობესება, ახალი ტექნოლოგიების შესწავლა და ახალ ამოცანებთან გამკლავება. \n' +
-        'ასევე, საუნივერსიტეტო განათლების ფარგლებში, მაქვს გუნდთან ერთად მუშაობის გამოცდილებაც (მიმუშავია github-ის გამოყენებით). ამჟამად, ჩემი დაინტერესების სფეროს წარმოადგენს ვებ დეველოპმენტი. საწყის დონეზე ვიცი Java EE, ASP.NET Core MVC, PHP, Laravel Framework და მაქვს სურვილი ეს ცოდნა პრაქტიკით გავაღრმავო. \n'
+            'კომპიუტერულ მეცნირებებს ვსწავლობ ორ წელზე მეტია. ამ ორი წლის განმავლობაში სამჯერ ვიყავი ლექტორის ერთ-ერთი ასისტენტი (საგანი: პროგრამირების აბსტრაქციები (C++), პროგრამირების მეთოდოლოგია (Java)).\n' +
+            'შემიძლია სწრაფად ავითვისო ახალი უნარები და მოვერგო ახალ გარემოს. ვარ პუნქტუალური და საქმის მიმართ ენთუზიასტურად განწყობილი. მიყვარს კარგი სტილის და დიზაინის მქონე, მაქსიმალურად მოქნილი კოდის წერა, არსებულის გაუმჯობესება, ახალი ტექნოლოგიების შესწავლა და ახალ ამოცანებთან გამკლავება. \n' +
+            'ასევე, საუნივერსიტეტო განათლების ფარგლებში, მაქვს გუნდთან ერთად მუშაობის გამოცდილებაც (მიმუშავია github-ის გამოყენებით). ამჟამად, ჩემი დაინტერესების სფეროს წარმოადგენს ვებ დეველოპმენტი. საწყის დონეზე ვიცი Java EE, ASP.NET Core MVC, PHP, Laravel Framework და მაქვს სურვილი ეს ცოდნა პრაქტიკით გავაღრმავო. \n'
     },
     'methodology': {'en': 'Programming Methodology', 'ge': 'პროგრამირების მეთოდოლოგა', 'small': true},
     'abstractions': {'en': 'Programming Abstractions', 'ge': 'პროგრამირების აბსტრაქციები', 'small': true},
@@ -69,19 +69,19 @@ const DICTIONARY = {
     'seclead_description': {
         'small': true,
         'en': 'Picked by the teacher, after being at the top of the class,' +
-        ' section leaders are responsible for grading programming homework of 10-15 students ' +
-        '(functionality, efficiency, codestyling and documenting), ' +
-        'explaining their mistakes and providing consultations if necessary.',
+            ' section leaders are responsible for grading programming homework of 10-15 students ' +
+            '(functionality, efficiency, codestyling and documenting), ' +
+            'explaining their mistakes and providing consultations if necessary.',
         'ge': 'სექციის ლიდერებს ევალებათ კონსულტაციები  გაუწიონ სტუდენტებს კომპიუტერული მეცნიერებების\n' +
-        'ძირითად კურსებში და შეაფასონ მათ მიერ შესრულებული დავალებები აღნიშნულ კურსებში' +
-        ' ფუნქციონალურობის, ეფექტურობის, სტილის და დოკუმენტაციის მიხედვით.'
+            'ძირითად კურსებში და შეაფასონ მათ მიერ შესრულებული დავალებები აღნიშნულ კურსებში' +
+            ' ფუნქციონალურობის, ეფექტურობის, სტილის და დოკუმენტაციის მიხედვით.'
     },
     'address': {
         'small': true, 'en': '\n' +
-        '              10a Demetre Tavdadebuli Street, Apt &numero;12,<br>\n' +
-        '              Tbilisi, 0131, Georgia<br>', 'ge': '\n' +
-        '              10ა დემეტრე თავდადებულის ქუჩა, ბ. &numero;12,<br>\n' +
-        '              თბილისი, 0131, საქართველო<br>'
+            '              10a Demetre Tavdadebuli Street, Apt &numero;12,<br>\n' +
+            '              Tbilisi, 0131, Georgia<br>', 'ge': '\n' +
+            '              10ა დემეტრე თავდადებულის ქუჩა, ბ. &numero;12,<br>\n' +
+            '              თბილისი, 0131, საქართველო<br>'
     },
     'phone_number': {'en': 'Phone Number', 'ge': 'საკონტაქტო ნომერი', 'small': true},
     'gifts': {'en': 'Send me cool gadgets at', 'ge': 'ამავსეთ საჩუქრებით: '},
@@ -94,14 +94,14 @@ const DICTIONARY = {
     'designge': {
         'small': true,
         'en': 'Responsible for fixing bugs or adding new features to already deployed or almost complete web\n' +
-        '                  projects.', 'ge': 'პასუხისმგებელი დასრულებულ ან თითქმის დასრულებულ ვებ პროექტებში ' +
-        'ბაგების გასწორებასა და ახალი ფუნქციონალის დამატებაზე.'
+            '                  projects.', 'ge': 'პასუხისმგებელი დასრულებულ ან თითქმის დასრულებულ ვებ პროექტებში ' +
+            'ბაგების გასწორებასა და ახალი ფუნქციონალის დამატებაზე.'
     }, 'designge_date': {
         'en': 'November 2017 - February 2018',
         'ge': 'ნოემბერი 2017 - თებერვალი 2018',
         'small': true
     },
-
+    fina_intern: {ge: 'სტაჟიორი ჯავა დეველოპერი', en: 'Intern Java Developer', small: true}
 };
 
 function translate(lang) {
