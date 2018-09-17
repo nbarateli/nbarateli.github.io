@@ -445,3 +445,22 @@
   width: 256px;
   border-radius: 50%;
 }
+
+.tooltip_custom .tooltiptext {
+  visibility: hidden;
+  width: 230px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+
+  /* Position the tooltip */
+  position: absolute;
+  transform: translateY(-100px);
+  z-index: 1;
+}
+
+.tooltip_custom:hover .tooltiptext {
+  visibility: visible;
+}
