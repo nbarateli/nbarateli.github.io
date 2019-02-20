@@ -475,3 +475,19 @@
 .work a {
   color: white;
 }
+
+.qr_code > * {
+  display: inline-block;
+
+}
+
+.qr_container {
+  text-align: center;
+}
+
+.qr_code {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+}

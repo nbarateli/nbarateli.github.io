@@ -46,4 +46,12 @@ $(document).ready(function () {
             animMeter();
         }
     });
+
+    $('.qr_code').each((i, el) => {
+        if (el.hasAttribute('data-src')) {
+            fetch(el.getAttribute('data-src'))
+                .then(data => data.text()
+                    .then(txt => el.innerHTML = txt));
+        }
+    });
 });
