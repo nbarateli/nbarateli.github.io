@@ -101,7 +101,7 @@ const DICTIONARY = {
         'ge': 'ნოემბერი 2017 - თებერვალი 2018',
         'small': true
     },
-    fina_intern: {ge: 'სტაჟიორი ჯავა დეველოპერი', en: 'Intern Java Developer', small: true}
+
 };
 
 function translate(lang) {
