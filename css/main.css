@@ -487,7 +487,6 @@
 
 .qr_code {
   display: inline-block;
-  width: 150px;
-  height: 150px;
+  width: 2.3in;
   text-align: center;
 }
