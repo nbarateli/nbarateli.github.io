@@ -1,6 +1,10 @@
 BEGIN:VCARD
-N:Barateli;Niko;;Niko Barateli;
-ADR;DOM;PARCEL;HOME:;;Demetre Tavdadebuli str. 10a;Tbilisi;;0131;Georgia
-EMAIL;INTERNET:nbara15@freeuni.edu.ge
-TEL;CELL:593397067
+VERSION:2.1
+FN:Niko Barateli
+N:Barateli;Niko
+TEL;HOME;VOICE:593397067
+EMAIL;HOME;INTERNET:nbara15@freeuni.edu.ge
+EMAIL;WORK;INTERNET:niko.barateli@wandio.com
+URL:https://nbarateli.github.io
+ADR:;;;Tbilisi;;;Georgia
 END:VCARD
