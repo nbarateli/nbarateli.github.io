@@ -28,7 +28,7 @@ const DICTIONARY = {
         'en': 'Responsible for development, maintenance and support of Bank Of Georgia\'s mobile applications on\n' +
             '                  Android platform.',
         'ge': 'პასუხისმგებელი საქართველოს ბანკის Android პლატფორმაზე არსებული მობილური აპლიკაციების\n' +
-            'შექმნა, გამართვასა და მხარდაჭერის უზრუნველყოფაზე.',
+            'შექმნას, გამართვასა და მხარდაჭერის უზრუნველყოფაზე.',
         'small': true
     },
     'software_dev': {'en': 'Software Developer', 'ge': 'პროგრამული უზრუნველყოფის დეველოპერი'},
