@@ -22,6 +22,15 @@ const DICTIONARY = {
     'name': {'en': 'Niko Barateli', 'ge': 'ნიკო ბარათელი'},
     'fina_intern': {'en': 'Intern Java Developer', 'ge': 'სტაჟიორი ჯავა დეველოპერი'},
     'wandio': {'en': 'Junior Android Developer', 'ge': 'მობილური აპლიკაციების უმცროსი დეველოპერი (Android)'},
+    'bog': {'en': 'Bank Of Georgia', 'ge': 'საქართველოს ბანკი'},
+    'bog_role': {'en': 'Junior Analyst/Developer (Android)', 'ge': 'უმცროსი ანალიტიკოს-დეველოპერი (Android)'},
+    'bog_description': {
+        'en': 'Responsible for development, maintenance and support of Bank Of Georgia\'s mobile applications on\n' +
+            '                  Android platform.',
+        'ge': 'პასუხისმგებელი საქართველოს ბანკის Android პლატფორმაზე არსებული მობილური აპლიკაციების\n' +
+            'შექმნა, გამართვასა და მხარდაჭერის უზრუნველყოფაზე.',
+        'small': true
+    },
     'software_dev': {'en': 'Software Developer', 'ge': 'პროგრამული უზრუნველყოფის დეველოპერი'},
     'edu': {'en': 'Education', 'ge': 'განათლება'},
     'freeuni': {'en': 'Free University Of Tbilisi', 'ge': 'თბილისის თავისუფალი უნივერსიტეტი'},
