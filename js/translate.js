@@ -25,10 +25,26 @@ const DICTIONARY = {
     'bog': {'en': 'Bank Of Georgia', 'ge': 'საქართველოს ბანკი'},
     'bog_role': {'en': 'Junior Analyst/Developer (Android)', 'ge': 'უმცროსი ანალიტიკოს-დეველოპერი (Android)'},
     'bog_description': {
-        'en': 'Responsible for development, maintenance and support of Bank Of Georgia\'s mobile applications on\n' +
-            '                  Android platform.',
-        'ge': 'პასუხისმგებელი საქართველოს ბანკის Android პლატფორმაზე არსებული მობილური აპლიკაციების\n' +
-            'შექმნას, გამართვასა და მხარდაჭერის უზრუნველყოფაზე.',
+        'en': 'Bank of Georgia is the largest commercial bank in Georgia.\n' +
+            '                  <br>\n' +
+            '                  <br>mBank is the app offering individual mobile banking service to customers with over 500K+\n' +
+            '                  installs, 648K+ monthly and 234K+ daily active users (Jun 2020).\n' +
+            '                  <br>\n' +
+            '                  <br>Apart from working on small patches and updates, I\'ve worked on the following larger subjects so\n' +
+            '                  far:\n' +
+            '                  <br>\n' +
+            '                  <br>• Implemented Digital Card ordering and detail retrieval in mBank.\n' +
+            '                  <br>• Implemented CreditInfo checking module in mBank.\n' +
+            '                  <br>• Took a part in migrating mBank to the new Biometric API.',
+        'ge': 'საქართველოს ბანკი არის ყველაზე დიდი კომერციული ბანკი საქართველოში.\n' +
+            '                  <br>\n' +
+            '                  <br>mBank არის აპლიკაცია, რომელიც სთავაზობს მობაილ ბანკინგის მომსახურებას ფიზიკურ პირებს, აქვს 500K+\n' +
+            '                  ინსტალაცია და ჰყავს 648K+ თვიური და 234K+ დღიური აქტიური მომხმარებელი. (ივნ 2020).\n' +
+            '                  <br>\n' +
+            '                  <br>მცირე პატჩებსა და განახლებებთან ერთად, მე მაქვს ნამუშევარი შემდეგ საკითხებზე:' +
+            '                  <br>• ციფრული ბარათების შეკვეთის იმპლემენტირება mBank-ში.\n' +
+            '                  <br>• კრედიტინფოში გადამოწმების თანხმობის მოდულის იმპლემენტირება mBank-ში.' +
+            '                  <br>• მივიღე მონაწილეობა mBank-ის ახალ Biometric API-ზე მიგრაციაში.',
         'small': true
     },
     'software_dev': {'en': 'Software Developer', 'ge': 'პროგრამული უზრუნველყოფის დეველოპერი'},
