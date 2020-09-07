@@ -49,6 +49,11 @@ const DICTIONARY = {
             '                  <br>• მივიღე მონაწილეობა mBank-ის ახალ Biometric API-ზე მიგრაციაში.',
         'small': true
     },
+    'wandio_description': {
+        'en': 'Was a junior developer for the <a href="https://play.google.com/store/apps/details?id=com.liberty.loyalty.android">Cashback 365</a> Android app for Liberty Bank',
+        'ge': 'ვიყავი უმცროსი დეველოპერი ლიბერთი ბანკის <a href="https://play.google.com/store/apps/details?id=com.liberty.loyalty.android">Cashback 365</a> ანდროიდ აპლიკაციაზე.',
+        'small': true
+    },
     'software_dev': {'en': 'Software Developer', 'ge': 'პროგრამული უზრუნველყოფის დეველოპერი'},
     'edu': {'en': 'Education', 'ge': 'განათლება'},
     'freeuni': {'en': 'Free University Of Tbilisi', 'ge': 'თბილისის თავისუფალი უნივერსიტეტი'},
