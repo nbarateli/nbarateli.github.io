@@ -27,23 +27,25 @@ const DICTIONARY = {
     'bog_description': {
         'en': 'Bank of Georgia is the largest commercial bank in Georgia.\n' +
             '                  <br>\n' +
-            '                  <br>mBank is the app offering individual mobile banking service to customers with over 500K+\n' +
-            '                  installs, 648K+ monthly and 234K+ daily active users (Jun 2020).\n' +
+            '                  <br>mBank is the app offering individual mobile banking service to customers with over 1M+\n' +
+            '                  installs, 648K+ monthly and 241K+ daily active users (Jun 2020).\n' +
             '                  <br>\n' +
             '                  <br>Apart from working on small patches and updates, I\'ve worked on the following larger subjects so\n' +
             '                  far:\n' +
             '                  <br>\n' +
             '                  <br>• Implemented Digital Card ordering and detail retrieval in mBank.\n' +
             '                  <br>• Implemented CreditInfo checking module in mBank.\n' +
+            '                  <br>• Implemented remote client operation confirmation in mBank.\n' +
             '                  <br>• Took a part in migrating mBank to the new Biometric API.',
         'ge': 'საქართველოს ბანკი არის ყველაზე დიდი კომერციული ბანკი საქართველოში.\n' +
             '                  <br>\n' +
-            '                  <br>mBank არის აპლიკაცია, რომელიც სთავაზობს მობაილ ბანკინგის მომსახურებას ფიზიკურ პირებს, აქვს 500K+\n' +
-            '                  ინსტალაცია და ჰყავს 648K+ თვიური და 234K+ დღიური აქტიური მომხმარებელი. (ივნ 2020).\n' +
+            '                  <br>mBank არის აპლიკაცია, რომელიც სთავაზობს მობაილ ბანკინგის მომსახურებას ფიზიკურ პირებს, აქვს 1 მილიონზე მეტი\n' +
+            '                  ინსტალაცია და ჰყავს 704K+ თვიური და 241K+ დღიური აქტიური მომხმარებელი. (ივნ 2020).\n' +
             '                  <br>\n' +
             '                  <br>მცირე პატჩებსა და განახლებებთან ერთად, მე მაქვს ნამუშევარი შემდეგ საკითხებზე:' +
             '                  <br>• ციფრული ბარათების შეკვეთის იმპლემენტირება mBank-ში.\n' +
             '                  <br>• კრედიტინფოში გადამოწმების თანხმობის მოდულის იმპლემენტირება mBank-ში.' +
+            '                  <br>• მომხმარებლის მიერ ოპერაციაზე დისტანციური თანხმობის მოდულის იმპლემენტირება mBank-ში.' +
             '                  <br>• მივიღე მონაწილეობა mBank-ის ახალ Biometric API-ზე მიგრაციაში.',
         'small': true
     },
