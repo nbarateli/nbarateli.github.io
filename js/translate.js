@@ -27,8 +27,10 @@ const DICTIONARY = {
     'bog_description': {
         'en': 'Bank of Georgia is the largest commercial bank in Georgia.\n' +
             '                  <br>\n' +
-            '                  <br>mBank is the app offering individual mobile banking service to customers with over 1M+\n' +
-            '                  installs, 648K+ monthly and 241K+ daily active users (Jun 2020).\n' +
+            '                  <br><a href="https://play.google.com/store/apps/details?id=ge.bog.mobilebank"> mBank </a>is the app\n' +
+            '                  offering individual mobile banking service to customers with over 1M+\n' +
+            '                  installs, 764K+ monthly and 299K+ daily active users (Dec 2020).\n' +
+            '\n' +
             '                  <br>\n' +
             '                  <br>Apart from working on small patches and updates, I\'ve worked on the following larger subjects so\n' +
             '                  far:\n' +
@@ -36,7 +38,14 @@ const DICTIONARY = {
             '                  <br>• Implemented Digital Card ordering and detail retrieval in mBank.\n' +
             '                  <br>• Implemented CreditInfo checking module in mBank.\n' +
             '                  <br>• Implemented remote client operation confirmation in mBank.\n' +
-            '                  <br>• Took a part in migrating mBank to the new Biometric API.',
+            '                  <br>• Took a part in implementing new Biometric API in mBank.\n' +
+            '                  <br>• Implemented upcoming service commission payments in mBank.\n' +
+            '                  <br>• Implemented become <a href="https://solo.ge/">SOLO</a> applications in mBank. (SOLO is a premium\n' +
+            '                  status membership offered by\n' +
+            '                  Bank of Georgia.)\n' +
+            '                  <br>• Worked on the cross-application Design System and SSO libraries that will be used by\n' +
+            '                  Retail Mobile Bank, Business Mobile Bank or any other application the company might\n' +
+            '                  develop in the future.',
         'ge': 'საქართველოს ბანკი არის ყველაზე დიდი კომერციული ბანკი საქართველოში.\n' +
             '                  <br>\n' +
             '                  <br>mBank არის აპლიკაცია, რომელიც სთავაზობს მობაილ ბანკინგის მომსახურებას ფიზიკურ პირებს, აქვს 1 მილიონზე მეტი\n' +
