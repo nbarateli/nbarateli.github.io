@@ -152,7 +152,6 @@
   margin-left: 4px;
   color: #fff;
 }
-
 .meter > span:after,
 .animate > span > span {
   content: "";
@@ -205,25 +204,22 @@
 .asbestos > span {
   background-color: #7f8c8d;
 }
-
 .nostripes > span > span,
 .nostripes > span:after {
   -webkit-animation: none;
   background-image: none;
 }
-
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
-  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype');
 }
-
 @font-face {
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 600;
-  src: local('Open Sans SemiBold'), local('OpenSans-SemiBold'), url(https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOUuhs.ttf) format('truetype');
 }
 .bar {
   width: 90%;
@@ -257,7 +253,6 @@
   font-size: 18px;
   color: darkgrey;
 }
-
 .education,
 .work {
   margin-bottom: 48px;
@@ -361,7 +356,6 @@
   content: url(../img/hackerrank.png);
   width: 10px;
 }
-
 #down,
 .btn.btn-lg.btn-outline {
   color: white;
@@ -408,6 +402,6 @@
 }
 .qr_code {
   display: inline-block;
-  width: 2.3in;
+  width: 244px;
   text-align: center;
 }

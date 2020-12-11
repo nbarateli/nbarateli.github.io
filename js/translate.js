@@ -36,27 +36,37 @@ const DICTIONARY = {
             '                  far:\n' +
             '                  <br>\n' +
             '                  <br>• Implemented Digital Card ordering and detail retrieval in mBank.\n' +
-            '                  <br>• Implemented CreditInfo checking module in mBank.\n' +
-            '                  <br>• Implemented remote client operation confirmation in mBank.\n' +
-            '                  <br>• Took a part in implementing new Biometric API in mBank.\n' +
-            '                  <br>• Implemented upcoming service commission payments in mBank.\n' +
-            '                  <br>• Implemented become <a href="https://solo.ge/">SOLO</a> applications in mBank. (SOLO is a premium\n' +
-            '                  status membership offered by\n' +
-            '                  Bank of Georgia.)\n' +
-            '                  <br>• Worked on the cross-application Design System and SSO libraries that will be used by\n' +
-            '                  Retail Mobile Bank, Business Mobile Bank or any other application the company might\n' +
-            '                  develop in the future.',
-        'ge': 'საქართველოს ბანკი არის ყველაზე დიდი კომერციული ბანკი საქართველოში.\n' +
-            '                  <br>\n' +
-            '                  <br>mBank არის აპლიკაცია, რომელიც სთავაზობს მობაილ ბანკინგის მომსახურებას ფიზიკურ პირებს, აქვს 1 მილიონზე მეტი\n' +
-            '                  ინსტალაცია და ჰყავს 704K+ თვიური და 241K+ დღიური აქტიური მომხმარებელი. (ივნ 2020).\n' +
-            '                  <br>\n' +
-            '                  <br>მცირე პატჩებსა და განახლებებთან ერთად, მე მაქვს ნამუშევარი შემდეგ საკითხებზე:' +
-            '                  <br>• ციფრული ბარათების შეკვეთის იმპლემენტირება mBank-ში.\n' +
-            '                  <br>• კრედიტინფოში გადამოწმების თანხმობის მოდულის იმპლემენტირება mBank-ში.' +
-            '                  <br>• მომხმარებლის მიერ ოპერაციაზე დისტანციური თანხმობის მოდულის იმპლემენტირება mBank-ში.' +
-            '                  <br>• მივიღე მონაწილეობა mBank-ის ახალ Biometric API-ზე მიგრაციაში.',
-        'small': true
+          '                  <br>• Implemented CreditInfo checking module in mBank.\n' +
+          '                  <br>• Implemented remote client operation confirmation in mBank.\n' +
+          '                  <br>• Took a part in implementing new Biometric API in mBank.\n' +
+          '                  <br>• Implemented upcoming service commission payments in mBank.\n' +
+          '                  <br>• Implemented become <a href="https://solo.ge/">SOLO</a> applications in mBank. (SOLO is a premium\n' +
+          '                  status membership offered by\n' +
+          '                  Bank of Georgia.)\n' +
+          '                  <br>• Worked on the cross-application Design System and SSO libraries that will be used by\n' +
+          '                  Retail Mobile Bank, Business Mobile Bank or any other application the company might\n' +
+          '                  develop in the future.',
+      'ge': '\n' +
+        '                  საქართველოს ბანკი არის ყველაზე დიდი კომერციული ბანკი საქართველოში.\n' +
+        '                  <br>\n' +
+        '                  <br>mBank არის აპლიკაცია, რომელიც სთავაზობს მობაილ ბანკინგის მომსახურებას ფიზიკურ პირებს, აქვს 1\n' +
+        '                  მილიონზე მეტი\n' +
+        '                  ინსტალაცია და ჰყავს 764K+ ყოველთვიური და 299K+ დღიური აქტიური მომხმარებელი. (დეკ 2020).\n' +
+        '                  <br>\n' +
+        '                  <br>მცირე პატჩებსა და განახლებებთან ერთად, მე მაქვს ნამუშევარი შემდეგ საკითხებზე:\n' +
+        '                  <br>• ციფრული\n' +
+        '                  ბარათების შეკვეთის იმპლემენტირება mBank-ში.\n' +
+        '                  <br>• კრედიტინფოში გადამოწმების თანხმობის მოდულის იმპლემენტირება mBank-ში.\n' +
+        '                  <br>• მომხმარებლის მიერ\n' +
+        '                  ოპერაციაზე დისტანციური თანხმობის მოდულის იმპლემენტირება mBank-ში.\n' +
+        '                  <br>• მივიღე მონაწილეობა mBank-ის ახალ Biometric API-ზე მიგრაციაში.\n' +
+        '                  <br>• მოახლოებული საკომისიოების დაფარვა mBank-ში.\n' +
+        '                  <br>• გახდი <a href="https://solo.ge/">SOLO</a>-ს განაცხადის შევსება mBank-ში.\n' +
+        '                  <br>• ვიმუშავე cross-application დიზაინ სისტემის და SSO-ს ბიბლიოთეკებზე, რომლებიც გამოიყენება საცალო\n' +
+        '                  მობაილ ბანკში, ბიზნეს მმობაილ ბანკში და ნებისმიერ სამომავლო აპლიკაციაში, რომლის დეველოპმენტსაც\n' +
+        '                  კომპანია გადაწყვეტს.\n' +
+        '                </p>',
+      'small': true
     },
     'wandio_description': {
         'en': 'Was a junior developer for the <a href="https://play.google.com/store/apps/details?id=com.liberty.loyalty.android">Cashback 365</a> Android app for Liberty Bank',
