@@ -26,16 +26,16 @@ const DICTIONARY = {
     'bog_role': {'en': 'Junior Analyst/Developer (Android)', 'ge': 'უმცროსი ანალიტიკოს-დეველოპერი (Android)'},
     'bog_description': {
         'en': 'Bank of Georgia is the largest commercial bank in Georgia.\n' +
-            '                  <br>\n' +
-            '                  <br><a href="https://play.google.com/store/apps/details?id=ge.bog.mobilebank"> mBank </a>is the app\n' +
-            '                  offering individual mobile banking service to customers with over 1M+\n' +
-            '                  installs, 764K+ monthly and 299K+ daily active users (Dec 2020).\n' +
-            '\n' +
+          '                  <br>\n' +
+          '                  <br><a href="https://play.google.com/store/apps/details?id=ge.bog.mobilebank"> mBank </a>is the app\n' +
+          '                  offering individual mobile banking service to customers with over 1M+\n' +
+          '                  installs, 790K+ monthly and 329K+ daily active users (Mar 2021).\n' +
+          '\n' +
             '                  <br>\n' +
             '                  <br>Apart from working on small patches and updates, I\'ve worked on the following larger subjects so\n' +
-            '                  far:\n' +
-            '                  <br>\n' +
-            '                  <br>• Implemented Digital Card ordering and detail retrieval in mBank.\n' +
+          '                  far:\n' +
+          '                  <br>\n' +
+          '                  <br>• Implemented Digital Card ordering and detail retrieval in mBank.\n' +
           '                  <br>• Implemented CreditInfo checking module in mBank.\n' +
           '                  <br>• Implemented remote client operation confirmation in mBank.\n' +
           '                  <br>• Took a part in implementing new Biometric API in mBank.\n' +
@@ -43,6 +43,7 @@ const DICTIONARY = {
           '                  <br>• Implemented become <a href="https://solo.ge/">SOLO</a> applications in mBank. (SOLO is a premium\n' +
           '                  status membership offered by\n' +
           '                  Bank of Georgia.)\n' +
+          '<br>• Implemented `MCC payment blocking and enabling via mBank for debit and credit cards.\n' +
           '                  <br>• Worked on the cross-application Design System and SSO libraries that will be used by\n' +
           '                  Retail Mobile Bank, Business Mobile Bank or any other application the company might\n' +
           '                  develop in the future.',
@@ -51,7 +52,7 @@ const DICTIONARY = {
         '                  <br>\n' +
         '                  <br>mBank არის აპლიკაცია, რომელიც სთავაზობს მობაილ ბანკინგის მომსახურებას ფიზიკურ პირებს, აქვს 1\n' +
         '                  მილიონზე მეტი\n' +
-        '                  ინსტალაცია და ჰყავს 764K+ ყოველთვიური და 299K+ დღიური აქტიური მომხმარებელი. (დეკ 2020).\n' +
+        '                  ინსტალაცია და ჰყავს 790K+ ყოველთვიური და 329K+ დღიური აქტიური მომხმარებელი. (მარ 2021).\n' +
         '                  <br>\n' +
         '                  <br>მცირე პატჩებსა და განახლებებთან ერთად, მე მაქვს ნამუშევარი შემდეგ საკითხებზე:\n' +
         '                  <br>• ციფრული\n' +
@@ -62,6 +63,7 @@ const DICTIONARY = {
         '                  <br>• მივიღე მონაწილეობა mBank-ის ახალ Biometric API-ზე მიგრაციაში.\n' +
         '                  <br>• მოახლოებული საკომისიოების დაფარვა mBank-ში.\n' +
         '                  <br>• გახდი <a href="https://solo.ge/">SOLO</a>-ს განაცხადის შევსება mBank-ში.\n' +
+        '<br>• MCC კოდების მიხედვით არასასურველი მერჩანტების გადახდების დაბლოკვა mBank-ში.' +
         '                  <br>• ვიმუშავე cross-application დიზაინ სისტემის და SSO-ს ბიბლიოთეკებზე, რომლებიც გამოიყენება საცალო\n' +
         '                  მობაილ ბანკში, ბიზნეს მმობაილ ბანკში და ნებისმიერ სამომავლო აპლიკაციაში, რომლის დეველოპმენტსაც\n' +
         '                  კომპანია გადაწყვეტს.\n' +
