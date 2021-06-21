@@ -23,7 +23,7 @@ const DICTIONARY = {
     'fina_intern': {'en': 'Intern Java Developer', 'ge': 'სტაჟიორი ჯავა დეველოპერი'},
     'wandio': {'en': 'Junior Android Developer', 'ge': 'მობილური აპლიკაციების უმცროსი დეველოპერი (Android)'},
     'bog': {'en': 'Bank Of Georgia', 'ge': 'საქართველოს ბანკი'},
-    'bog_role': {'en': 'Junior Analyst/Developer (Android)', 'ge': 'უმცროსი ანალიტიკოს-დეველოპერი (Android)'},
+    'bog_role': {'en': 'Analyst/Developer (Android)', 'ge': 'ანალიტიკოს-დეველოპერი (Android)'},
     'bog_description': {
         'en': 'Bank of Georgia is the largest commercial bank in Georgia.\n' +
           '                  <br>\n' +
