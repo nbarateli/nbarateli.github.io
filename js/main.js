@@ -1,9 +1,7 @@
 $(document).ready(function () {
 
   $(".bar").each(function () {
-    $(this).find(".bar-inner").animate({
-      width: $(this).attr("data-width")
-    }, 2000)
+     this.style.display = "none"
   });
   // Logo
   var $logo = $('#logo');
