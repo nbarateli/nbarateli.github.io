@@ -1,11 +1,11 @@
 @font-face {
     font-family: BOGmBankGEORBTNusxuri-Regular;
-    src: url("https://Webstatic.bog.ge/fonts/mbank/android/BOGmBankGEORBTNusxuri-Regular.ttf") format("truetype")
+    src: url("file:///android_asset/font/bog_regular.ttf") format("truetype")
 }
 
 @font-face {
     font-family: BOGmBankGEORBTMtavruli-Medium;
-    src: url("https://Webstatic.bog.ge/fonts/mbank/android/BOGmBankGEORBTMtavruli-Medium.ttf") format("truetype")
+    src: url("file:///android_asset/font/bog_medium.ttf") format("truetype")
 }
 
 #liveForm .kpl_builder .control-label {
